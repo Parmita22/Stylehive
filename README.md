@@ -51,19 +51,63 @@ Use a local server environment like XAMPP, WAMP, or MAMP to run the project.
 ## Screenshots
 1. **HomeScreen**
 <p align="center">
-  <img src="images/homepage.png" alt="Logo" />
+  <img src="images/homepage.png" alt="Logo"  width="600" height= "700" />
 </p>
 
 2. **Aboutus**
   <p align="center">
-  <img src="images/aboutuspage.png" alt="Logo" />
+  <img src="images/aboutuspage.png" alt="Logo" width="600" height= "700" />
 </p>
 
 3. **ProductPage**
   <p align="center">
-  <img src="images/productspage.png" alt="Logo" />
+  <img src="images/productspage.png" alt="Logo" width="600" height= "700" />
 </p> 
+
+
 4. **OrderPage**
   <p align="center">
-  <img src="images/orderpage.png" alt="Logo" />
+  <img src="images/orderpage.png" alt="Logo" width="600" height= "700" />
 </p>
+
+5. **WishlistPage**
+  <p align="center">
+  <img src="images/wishlist.png" alt="Logo" width="600" height= "700" />
+</p>
+
+5. **AddtocartPage**
+  <p align="center">
+  <img src="images/addtocart.png" alt="Logo" width="600" height= "700" />
+</p>
+
+6. **CheckoutPage**
+  <p align="center">
+  <img src="images/checkoutform.png" alt="Logo" width="600" height= "700" />
+</p>
+
+7. **contactusPage**
+  <p align="center">
+  <img src="images/contactusform.png" alt="Logo" width="600" height= "700" />
+</p>
+
+<h3>Admin panel Screenshot</h3>
+   **AdminDashboard**
+  <p align="center">
+  <img src="images/admindashboard.png" alt="Logo" width="600" height= "700" />
+</p>
+
+
+  **AddProduct**
+  <p align="center">
+  <img src="images/addproductfrom.png" alt="Logo" width="600" height= "700" />
+</p> 
+  **EditProductFrom**
+  <p align="center">
+  <img src="images/editproduct.png" alt="Logo" width="600" height= "700" />
+</p>  
+    **viewproduct**
+  <p align="center">
+  <img src="images/viewproduct.png" alt="Logo" width="600" height= "700" />
+</p> 
+   
+
