@@ -1,4 +1,4 @@
-mEcommerce Website
+<h1> Ecommerce Website </h1>
 <p align="center">
   <img src="images/logo.png" alt="Logo" />
 </p>
