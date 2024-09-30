@@ -48,7 +48,22 @@ Update the database connection details in the db.php file.
 Start the Server
 Use a local server environment like XAMPP, WAMP, or MAMP to run the project.
 
-
+## Screenshots
+1. **HomeScreen**
 <p align="center">
   <img src="images/homepage.png" alt="Logo" />
+</p>
+
+2. **Aboutus**
+  <p align="center">
+  <img src="images/aboutuspage.png" alt="Logo" />
+</p>
+
+3. **ProductPage**
+  <p align="center">
+  <img src="images/productspage.png" alt="Logo" />
+</p> 
+4. **OrderPage**
+  <p align="center">
+  <img src="images/orderpage.png" alt="Logo" />
 </p>
